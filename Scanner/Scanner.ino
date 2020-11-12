@@ -1,7 +1,7 @@
-#define WIFI_SSID "TP-LINK_348"
-#define WIFI_PASSWORD "348348348"
-#define POST_URL "http://localhost:3000"
-#define SCAN_TIME 30     // seconds
+#define WIFI_SSID "Wi-Fi_SSID"
+#define WIFI_PASSWORD "Wi-Fi_Password"
+#define POST_URL "http://localhost:5000"
+#define SCAN_TIME 5     // seconds
 #define WAIT_WIFI_LOOP 5 // around 4 seconds for 1 loop
 #define SLEEP_TIME 300   // seconds
 
